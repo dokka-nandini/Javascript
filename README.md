@@ -8,3 +8,4 @@ html css not important just see not to do  practice, react is important practice
 
 
 after completion css and js and es6 reading go to react ok 78 tc mc 8 gn 7 clear pls tc pray
+thinava (thi) tc 7 gn paduko 
