@@ -9,7 +9,5 @@ html css not important just see not to do  practice, react is important practice
 
 after completion css and js and es6 reading go to react 
 
-8 don't c 
-will pray 
-I m there 8
+7
 
